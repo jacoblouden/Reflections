@@ -1,0 +1,47 @@
+GitHub
+
+6. How did viewing a diff between two versions help you
+spot the bug?
+
+Viewing a diff helped me spot the bug because there wasn't as much code to
+look through so it was a lot faster. I could directly compare the code.
+
+8. How could having easy access to the entire history
+of a file make you a more efficient programmer in the long term?
+
+This could make you a more efficient programmer because this allows you to go
+through your mistakes and maybe find a better way of doing things.
+
+15. What do you think are the pros and cons of manually choosing
+when to create a commit, like you do in Git, vs having versions automatically
+saved, like Google Docs does?
+
+Manually choosing to create a commit can save time, this way you can write more
+without saving all the time. Manually committing can also be bad. If you do 
+something wrong and you didn't save that then your entire code could be 
+destroyed. While automatic saving would have fixed that.
+
+18. Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others, like Google Docs, treat
+each file separately?
+
+I think this is like this because this way you can get things done faster, and 
+then you wouldn't have to save every minute.
+
+
+22. How can you use the commands git log and git diff to
+view the history of files?
+
+Git log will show you the entire log of the code, and the different version. Git
+ diff will compare two different versions and show you what you did differently.
+
+26. How might using version control make you more confident to make changes that 
+could break something?
+
+Version control will make you more confident because even if you make mistakes your
+code will not be messed up and you can just go back and fix it.
+
+31. Now that you have your workspace set up, what do you want to try using Git for?
+
+There is nothing I want to use it for now. But maybe once I start making my game I 
+can compare files just like the people on this site did.
