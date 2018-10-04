@@ -1,0 +1,7 @@
+
+4. What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository an empty repository is created, this empty repository has no commits. You need to do it so that it won't include files you don't want to keep track of.
+
+6. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
